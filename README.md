@@ -1,2 +1,4 @@
 # Fullstack-Capstone-Starter-Project
-The Arrow game is group project created by Student of Full Stack Academy. In the game users select 2-dimensional characters to fight against one another. Players spawn on a two-dimensional map and are equipped with a bow and arrow to fight with other players. The winner is declared once the last player stands! 
+
+## The Arrow Game 
+The Arrow Game is a capstone group project created by: Isaias Julio, Mario Herrera, Ethan Haynes, and Santiparp Mekmueangthong - students of Full Stack Academy. In The Arrow Game, up to 10 users select a player to fight in a free-for-all style brawl against one another on a live two-dimensional map. Players on the map are equipped with a bow and arrow to shoot and strike other opponents. All Players start with x3 lives. If a player with x3 lives gets struck three times by an opponent's arrow, that player dies and loses the game. The player who killed the now-deceased player gains x1 additional life added to their total number of lives at the time of knocking out the deceased player. The Arrow Game is won when the final player stands! 
